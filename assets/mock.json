@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Flutter 3.10 Released!",
+        "snippet": "The latest version of Flutter brings improved performance and new widgets.",
+        "content": "Flutter 3.10 comes with amazing updates such as better rendering on iOS, Impeller improvements, and new Material 3 widgets. It's now easier than ever to build beautiful apps.",
+        "image": "https://techvify-software.com/wp-content/uploads/2023/06/flutter-app-development.png",
+        "category": "Technology"
+    },
+    {
+        "id": 2,
+        "title": "Health Tips for the Summer",
+        "snippet": "Stay hydrated and eat fresh fruits during the hot season.",
+        "content": "During summer, your body needs extra care. Always stay hydrated, avoid heavy meals, and add lots of fruits like watermelon and cucumbers to your diet. Regular exercise and enough sleep are equally important.",
+        "image": "https://media.istockphoto.com/id/1280587810/photo/healthy-eating-exercising-weight-and-blood-pressure-control.jpg?s=612x612&w=0&k=20&c=iCQnBHXhRf6HIzPGMUMwjnBDtIZDuE5UzrPG6AeKMZE=https://www.shutterstock.com/image-illustration/how-get-fit-healthy-lifestyle-260nw-1452193523.jpg",
+        "category": "Health"
+    },
+    {
+        "id": 3,
+        "title": "Top 5 Destinations to Travel in 2025",
+        "snippet": "Explore the hidden gems around the world that you must visit next year.",
+        "content": "From the snowy peaks of Switzerland to the beaches of Bali, 2025 has a lot to offer travelers. Top picks include Iceland, Japan during cherry blossom season, and New Zealand's adventure trails.",
+        "image": "https://t4.ftcdn.net/jpg/00/65/48/25/240_F_65482539_C0ZozE5gUjCafz7Xq98WB4dW6LAhqKfs.jpg",
+        "category": "Travel"
+    },
+    {
+        "id": 4,
+        "title": "Politics in 2025: What to Expect",
+        "snippet": "Major elections are lined up for the upcoming year. Here's what to watch.",
+        "content": "With several key countries heading towards elections in 2025, the global political landscape could shift dramatically. Analysts predict changes in leadership, economic policies, and international relations.",
+        "image": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2024/opinion/DownPostIllustration-1711549802.jpg&w=900&height=601",
+        "category": "Politics"
+    },
+    {
+        "id": 5,
+        "title": "The Future of AI in Education",
+        "snippet": "How artificial intelligence is transforming classrooms.",
+        "content": "AI is making personalized education possible. From virtual tutors to smart grading systems, technology is helping students learn better and teachers teach smarter.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-M_r7bEyuBQzUODeKwobumjZ2bnoB_uelw&s",
+        "category": "Technology"
+    },
+    {
+        "id": 6,
+        "title": "Top Mobile Apps of 2024",
+        "snippet": "Here are the most downloaded mobile apps this year.",
+        "content": "TikTok, WhatsApp, and Instagram remain on top. However, apps like BeReal and Threads are gaining traction among Gen Z. Read the full review and see who leads in each category.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToYYabsTY75okMrPS0ppveZ8ZgHDQ9m8V85w&s",
+        "category": "Technology"
+    },
+    {
+        "id": 7,
+        "title": "Yoga and Mindfulness Practices",
+        "snippet": "How yoga helps reduce stress and improve mental clarity.",
+        "content": "Practicing yoga daily enhances flexibility, relieves stress, and helps focus. Combining it with mindfulness or meditation creates a powerful mental reset.",
+        "image": "",
+        "category": "Health"
+    },
+    {
+        "id": 8,
+        "title": "Eco-Friendly Homes: The Future is Green",
+        "snippet": "How modern homes are becoming sustainable and smart.",
+        "content": "New homes are being built with sustainable materials, solar panels, and smart devices. These homes save energy, reduce carbon footprint, and increase property value.",
+        "image": "",
+        "category": "Environment"
+    },
+    {
+        "id": 9,
+        "title": "Best Coding Languages to Learn in 2025",
+        "snippet": "Still confused what to learn next? Here's our expert list.",
+        "content": "Python, JavaScript, Dart, and Rust lead the list in 2025. Whether you want to build mobile apps, data science tools, or web platforms, these are the must-learn languages.",
+        "image": "",
+        "category": "Technology"
+    },
+    {
+        "id": 10,
+        "title": "How to Start a Plant-Based Diet",
+        "snippet": "Go green with your food – it's easier than you think.",
+        "content": "Starting a plant-based diet can seem overwhelming, but small changes help. Add leafy greens, nuts, legumes, and whole grains to your meals and reduce red meat.",
+        "image": "",
+        "category": "Health"
+    }
+]
