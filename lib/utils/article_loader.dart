@@ -9,4 +9,10 @@ class ArticleLoader {
     final List<dynamic> data = jsonDecode(response);
     return data.map((json) => Article.fromJson(json)).toList();
   }
+
+  static Future<List<String>> loadCategories() async {
+    final articles = await loadArticles();
+    final Set<String> categories = articles.map((a) => a.category).toSet();
+    return categories.toList();
+  }
 }
